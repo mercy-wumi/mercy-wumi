@@ -10,7 +10,7 @@
   <a href="https://mercyadams.vercel.app/">Portfolio</a> •
   <a href="https://linkedin.com/in/adamsmercy">LinkedIn</a> •
   <a href="https://x.com/m_adams1909">X</a> •
-  <a href="mailto:mercydapps23@gmail.com">Email</a>
+  <a href="mailto:m.adams1909@gmail.com">Email</a>
 </p>
 
 ---
@@ -57,10 +57,11 @@
 
 | Product | Type | Stack |
 | --- | --- | --- |
-| PlugNg | Fintech | React, Next.js |
-| PlugNg Event | Event management | React, Next.js |
-| PlugNg Agent / Business | Agent and business platforms | React, Next.js |
-| ShopNig | E-commerce | React, Next.js |
+| PlugNg | Fintech | React |
+| PlugNg Event | Event management | Next.js |
+| PlugNg Business | Business management platform | Next.js |
+| PlugNg Agent | Agent management platforms | React |
+| ShopNig | E-commerce | React |
 | Real estate and investment platform | User app and admin dashboard | React, Next.js |
 
 *Most of this work is for private company and client products, so the code isn't public. See my [portfolio](https://mercyadams.vercel.app/) for selected projects.*
@@ -80,4 +81,4 @@
 - 🌐 [Portfolio](https://mercyadams.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/adamsmercy)
 - 🐦 [X / Twitter](https://x.com/m_adams1909)
-- ✉️ [mercydapps23@gmail.com](mailto:mercydapps23@gmail.com)
+- ✉️ [m.adams1909@gmail.com](mailto:m.adams1909@gmail.com)
