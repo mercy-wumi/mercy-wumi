@@ -19,8 +19,8 @@
 
 - I build and maintain React and Next.js applications used by real people, including **PlugNg**, a fintech product that has grown past **70,000 users**.
 - I turn designs and requirements into responsive, accessible interfaces, and integrate REST and third-party APIs.
-- I work closely with designers, backend engineers and product managers in Agile teams.
-- Currently building a real estate and investment management platform, covering both the user app and the admin dashboard.
+- I work closely with designers, backend engineers, and product managers in Agile teams.
+- Currently working on a real estate and investment management platform, covering both the user app and the admin dashboard while maintaining existing projects.
 
 ---
 
@@ -35,7 +35,6 @@
 **Frameworks and Libraries**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
 
